@@ -1,7 +1,5 @@
 # KamasMarket AI agent: the chat engine
 
-**Portfolio:** [ivanboot.dev](https://ivanboot.dev) · see it in [Web & API Integration](https://ivanboot.dev/web-api)
-
 On top of KamasMarket, an AI agent connected to the site and to every order, so each user always knows where their
 product and their money are. The agent looks after the users: it tracks their orders, tells them how a payment is
 going, and explains any section of the site, for example how to register their BEP-20 address to receive their
